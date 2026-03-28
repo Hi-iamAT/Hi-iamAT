@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently gaining new skills <br>🧑🏽‍🎓 Doing my bachelor <br>🤝 I’m looking for help with IoT based projects <br>🌱 I’m currently learning java, js<br>💬 Ask me about myself<br>⚡ Fun fact - I am not very friendly 
+🔭 I’m currently gaining new skills <br>🧑🏽‍🎓 Doing my bachelor <br>🤝 I’m looking for help with IoT based projects <br>🌱 I’m currently learning java, js<br>⚡ Fun fact - I am not very friendly 
 
 
 ## 🌐 Socials:
