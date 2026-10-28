@@ -1,31 +1,31 @@
-<div align="center">
-  <h1>Hi there, I'm Alauddin! 👋</h1>
-  <p><em>Developer | Tech Enthusiast | IoT Explorer</em></p>
+<h1 align="center">Hi there, I'm Alauddin! 👋</h1>
 
-  <!-- Profile Views -->
-  <img src="https://visitcount.itsvg.in/api?id=Hi-iamAT&icon=0&color=0" alt="Profile Views">
+<h3 align="center">Developer | Tech Enthusiast | IoT Explorer</h3>
 
-  <br />
-  <br />
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Hi-iamAT&icon=0&color=0" alt="Profile Views">
+  </a>
+</p>
 
-  <!-- Socials -->
-  <a href="https://www.linkedin.com/in/alauddin-talukder-7a7a1138a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:atalauddin1010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
   <a href="https://www.facebook.com/alauddin.talukder.581"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.instagram.com/_atalauddin_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/@UCx93lHrJD-vBD25dQy1isJw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/alauddin-talukder-7a7a1138a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.reddit.com/user/TopOutrageous3470/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
-</div>
+  <a href="https://youtube.com/@UCx93lHrJD-vBD25dQy1isJw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:atalauddin1010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"></a>
+</p>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 I’m currently expanding my skill set and exploring new technologies.
-- 🧑🏽‍🎓 Pursuing my Bachelor's degree.
-- 🌱 Currently deepening my knowledge in **Java** and **JavaScript**.
-- 🤝 Open to collaborating and helping out with **IoT-based projects**.
-- ⚡ Fun fact: I am not very friendly 😅 *(but my code speaks for itself!)*
+* 🔭 I’m currently expanding my skill set and exploring new technologies.
+* 🧑🏽‍🎓 Pursuing my Bachelor's degree.
+* 🌱 Currently deepening my knowledge in **Java** and **JavaScript**.
+* 🤝 Open to collaborating and helping out with **IoT-based projects**.
+* ⚡ Fun fact: I am not very friendly 😅 *(but my code speaks for itself!)*
 
 ---
 
@@ -48,34 +48,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hi-iamAT&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hi-iamAT&theme=dark&hide_border=true" alt="GitHub Streak">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-iamAT&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
 
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hi-iamAT&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Hi-iamAT&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-iamAT&theme=dark&hide_border=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hi-iamAT&theme=radical&margin-w=15&no-frame=true" alt="Trophies">
-  </a>
-</div>
+  ### 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=Hi-iamAT&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <br>
 
-<br>
+  ### 🔝 Top Contributed Repo
+  <img src="https://github-contributor-stats.vercel.app/api?username=Hi-iamAT&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <br>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Hi-iamAT&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</div>
+  ### ✍️ Random Dev Quote
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
-<br>
-
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
